@@ -1,0 +1,9 @@
+com/bsapp/dao/UserDAO.class
+com/bsapp/model/Product.class
+com/bsapp/utils/StringUtils.class
+com/bsapp/model/User.class
+NewServlet.class
+com/bsapp/servlets/LoginServlet.class
+com/bsapp/utils/IConstants.class
+com/bsapp/servlets/TestServlet.class
+com/bsapp/manager/UserManager.class
